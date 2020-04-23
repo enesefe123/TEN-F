@@ -21,7 +21,7 @@ class Development(Var):
   API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
 ```
 
-### UniBorg Configuration
+### Tean-F Configuration
 
 
 
@@ -30,7 +30,7 @@ Simply just leave the Config as it is.
 
 **Local Configuration**
 
-Fortunately there are no Mandatory vars for the UniBorg Support Config.
+Fortunately there are no Mandatory vars for the Tean-F Support Config.
 
 ## Mandatory Vars
 
